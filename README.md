@@ -1,3 +1,3 @@
 # kanika-demo
-this is my first github repository.
-author-kanika
+This is my first github repository.
+Author-kanika.
